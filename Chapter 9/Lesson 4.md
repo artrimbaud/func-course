@@ -1,0 +1,30 @@
+## Chapter 6. Lesson 4. TON ecosystem
+###### tags: `Chapter 9`
+
+The TON Ecosystem relies on builders and to help them succeed, various institutions provide support ranging from incubation and acceleration to fundraising assistance. We will cover ways to engage in conversation with all the ecosystem players and share the ways to engage in conversation with the builders community as well. We will divide this lesson into three sub-modules, incubation and acceleration, grants and bounties and fundraising. There are multiple communities of builders and founders inside the ecosystem.
+
+### TON Society
+
+One of such communities is the TON Society, where people meet, build projects and connect with capital. It is a dedicated entry set up to provide a service to the emerging teams inside the blockchain and teams coming to build on TON from the outside. To learn more, you can subscribe to [their official Telegram channel](https://t.me/tonsociety) or to join [discussions at TON Society chat](https://t.me/tonsociety_chat). It is also a good practice to ask fellow builders and engage in conversations with them to get more insights from the community.
+
+
+### Tonstarter
+Another important player in the ecosystem is Tonstarter. Initially, it was launched as a token launchpad, but with the time, Tonstarter has grown to offer various forms of support for builders in the ecosystem. You can find [their official channel here](https://t.me/ton_starter) and you are always welcome to join [Tonstarter chat](https://t.me/ton_starter_chat), where you can rely on help from moderators and community members to navigate the ecosystem as well. There is also an investment part where you can get support if you're building something which is valuable for the ecosystem. 
+
+### TON grants program
+Of course, TON has a grants program as well. This program was initially built to provide funding to non-commercial applications and DevTools, which don't have any other means to exist otherwise. But with the growth of the ecosystem, TON grants program got expanded and now has the opportunity and privilege to support founders coming to the ecosystem, stepping up with their ideas and emerging from the ongoing process of incubation, acceleration, or building something through hackathons or just building open source projects on the GitHub. To get access to this program and to find more, you can visit [this link](https://ton.org/grants).
+
+### TON Footsteps
+And to engage in conversations in Ton Society chats or any other chats in the ecosystem to understand logistics and current landscape of grants program, there is another program to support builders, which is called TON Footsteps. TON Footsteps is a small bounty program limited to something around 5K rewards distributed through GitHub. And it's available at [this link](https://github.com/ton-society/ton-footsteps). It was built to support the initiatives from the builders. So you are welcome to suggest something, some little project or project divided in multiple steps and after some discussions, the idea can be validated, improved by the community and ultimately, if it makes sense, if the consensus was reached, it gets funded through the program to deliver something valuable to the ecosystem.
+
+### Ton Awards
+There is also TON Awards program, which is an ongoing program for endorsing and rewarding builders who didn't apply intentionally or unintentionally for any means of support, which is effectively a retrogrant or retrodrop for endorsing and supporting founders who built something, put it in the community, open sourced it and promoted and did good for the ecosystem. You can generally apply for TON Awards because it works as an open call when you have to monitor [some official channels](https://ton.org/en/events) and to follow the instructions in the announcement to apply for it once the call was made.
+
+
+### Fundraising 
+And now to fundraising. When you have overgrown other means to support and ready to move forward, you generally want to fundraise and to fund your project with the money from the investors. This usually means that you've reached some point where you can start looking for building an actual business. To access fundraising opportunities, your project needs to demonstrate some traction. Traction usually means growth in a project's key metrics, such as retention, number of users or revenue. There are several funds in the TON ecosystem that can provide capital for founders and builders. The primary ecosystem fund is the Toncoin Fund, and you can apply for it through [their website here](https://toncoin.fund/). Another ecosystem fund, TAV, [accepts applications here](https://society.ton.org/). Additionally, First Stage Labs is a venture studio that partners with founders to build companies or invest in TON-native projects. First Stage Labs is a pioneering venture builder and a VC firm dedicated to launching and scaling the free startups on TON blockchain. Using extensive expertise, industry connections and fundraising, the company supports projects focused on achieving crypto technology mass adoption. Stay connected with First Stage Labs on their [website](https://fslabs.io/), Twitter, LinkedIn and Facebook.
+
+
+### Conclusion 
+
+As the ecosystem evolves, the information in this lecture may become outdated or even obsolete. To stay informed about the best ways to get support from the ecosystem, you can visit the [website](https://ton.org/), subscribe to the [Telegram channels](https://t.me/toncoin) or follow [TON blockchain on Twitter](https://twitter.com/ton_blockchain). To conclude, in this lesson we've explored the TON venture ecosystem and the support available for builders through incubation, acceleration, grants and fundraising opportunities. By understanding and utilizing these resources, you'll be better equipped to bring your projects to life within the TON blockchain venture ecosystem. In our next lesson we'll discuss how to build your pitch deck and to master your pitch.
